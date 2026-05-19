@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Local tool state (not for version control)
+.omc/
+.claude/settings.local.json
